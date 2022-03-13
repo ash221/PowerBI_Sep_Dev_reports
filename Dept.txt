@@ -6,3 +6,4 @@ deptid,deptname,deptloc
 40,marketing,mum
 50,admin,hyd
 60,admin,mum
+70,admin,hyd
