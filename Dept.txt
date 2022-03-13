@@ -1,6 +1,8 @@
+This is new depts information
 deptid,deptname,deptloc
 10,it,hyd
 20,sales,che
 30,hr,mum
 40,marketing,mum
 50,admin,hyd
+60,admin,mum
